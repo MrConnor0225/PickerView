@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "661609C3-4B89-4527-BB9A-4E00EAC8E993"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PickerView/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - 7c10ba13fb985756"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.cities.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - 95a4a92854cea2ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.cities.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - 781e27115a584c87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.cities.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - faf7c80dc0f7ab02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.cities.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - 576f161c81299238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PickerView.ViewController"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  uuid = "3ED7EE66-FD97-4F59-AC57-216261EF1CF8 - eb3fdf456c14c087"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PickerView.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PickerView.ViewController&gt;"
+                  moduleName = "PickerView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/connor/Desktop/iOS%E9%96%8B%E7%99%BCapp/APP/PickerView/PickerView/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "793">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
